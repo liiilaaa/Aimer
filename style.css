@@ -85,3 +85,11 @@ body{
   height: 30%;
   background-color: rgb(0, 0, 0,);
 }
+
+.botao-legal {
+  margin-top: 10vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;   
+}
